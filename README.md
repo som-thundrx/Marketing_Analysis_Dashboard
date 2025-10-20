@@ -1,7 +1,8 @@
-# Marketing_Analysis_Dashboard
-
-
 # Marketing Analytics Portfolio Project: E-Commerce Performance Deep Dive 📈
+
+Dashboard 
+<img width="1476" height="790" alt="image" src="https://github.com/user-attachments/assets/784a7ce5-9e7e-4a32-acae-198ba17036d0" />
+
 
 ## Overview
 
@@ -11,7 +12,7 @@ This project provides a comprehensive, data-driven analysis of an e-commerce pla
 
 ## Key Performance Metrics Summary
 
-* **Conversion Rate:** The overall conversion rate averaged **8.5%**[cite: 10]. Rates demonstrated strong seasonal swings, including a **18.5% peak in January** (driven by Ski Boots) and a major dip to **4.3% in May**.
+* **Conversion Rate:** The overall conversion rate averaged **8.5%**. Rates demonstrated strong seasonal swings, including a **18.5% peak in January** (driven by Ski Boots) and a major dip to **4.3% in May**.
 * **Customer Engagement (Views):** The platform logged **2,982,369 total views**.Engagement, measured by views, peaked in February and July but showed a concerning **decline from August onwards**.
 * **Customer Reviews (Rating):** The average customer rating was a consistent **3.7** throughout the year. While largely positive (high number of 4 and 5-star reviews), this average remains below the internal target of **4.0**.
 
